@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">𝐒𝐔𝐁𝐙𝐄𝐑𝐎 𝐌𝐃 </h1>
+<h1 align="center">VENOCYBER 𝐌𝐃 </h1>
 
 <img align="center" height="auto"
 src="https://mrfrankk-cdn.hf.space/media/repo.png">
@@ -85,7 +85,7 @@ src="https://mrfrankk-cdn.hf.space/media/repo.png">
 
 - This bot is made for educational purposes `only` hence `DO NOT MISUSE`.
 
-> `POWERED BY MR FRANK OFC 🇿🇼`
+> `POWERED BY RAJOLA
 ##
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
