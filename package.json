@@ -1,8 +1,8 @@
 {
-  "name": "subzero-md",
+  "name": "venocyberr-md",
   "version": "6.0.0",
-  "description": "SUBZERO-MD V6 — A fast, secure, and modular WhatsApp Multi-Device bot built for performance, scalability, and reliability.",
-  "author": "Mr Frank OFC (Darrell Mucheri)",
+  "description": "VENOCYBER-MD V6 — A fast, secure, and modular WhatsApp Multi-Device bot built for performance, scalability, and reliability.",
+  "author": "Rajola",
   "license": "MIT",
 
   "main": "index.js",
@@ -29,7 +29,7 @@
 
 
   "keywords": [
-    "subzero-md",
+    "venocyber-md",
     "whatsapp-bot",
     "baileys",
     "multi-device",
@@ -40,10 +40,10 @@
   ],
 
   "scripts": {
-    "start": "pm2 start index.js --name SUBZERO-MD --deep-monitoring",
-    "stop": "pm2 stop SUBZERO-MD",
-    "restart": "pm2 restart SUBZERO-MD",
-    "logs": "pm2 logs SUBZERO-MD",
+    "start": "pm2 start index.js --name VENOCYBERR-MD --deep-monitoring",
+    "stop": "pm2 stop VENOCYBER-MD",
+    "restart": "pm2 restart VENOCYBERR-MD",
+    "logs": "pm2 logs VENOCYBERR-MD",
     "status": "pm2 status",
     "dev": "node index.js",
     "clean": "rm -rf node_modules package-lock.json",
